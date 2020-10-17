@@ -4,7 +4,6 @@ World of Warcraft UI Import Codes
 
 TODO
 Plater
-Dominos
 
 Weakaura
 
@@ -31,3 +30,9 @@ Opie
 Litemount
 
 	-create a new macro with "/click LM_B1" as the command
+
+ElvUI
+	
+	-Download the UnitFramePlugin
+	-Download the BenikUI Plugin
+	
